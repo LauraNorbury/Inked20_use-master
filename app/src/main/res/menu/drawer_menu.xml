@@ -18,7 +18,7 @@
 
         <item android:id="@+id/profile"
             android:icon="@drawable/ic_profile"
-            android:title="My Favourites"/>
+            android:title="My Profile"/>
     </group>
 
     <item android:title="Community">
