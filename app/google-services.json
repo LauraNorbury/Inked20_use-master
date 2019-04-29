@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "188947178228",
+    "firebase_url": "https://inked20-5c840.firebaseio.com",
+    "project_id": "inked20-5c840",
+    "storage_bucket": "inked20-5c840.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188947178228:android:b3b3d8101156fd38",
+        "android_client_info": {
+          "package_name": "ie.holiday.inked20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188947178228-dkqv1kkbbhhmgd2kdspv0ihcuo6u80e4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ie.holiday.inked20",
+            "certificate_hash": "d682011e0676a1b2e75724c8e7bf24570fb6b6d4"
+          }
+        },
+        {
+          "client_id": "188947178228-od8b71bsv09o1l1j9v5dqag91l1jk3km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5B6VvbfOLdp66yytQSJoAlfHnzk4MvEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188947178228-od8b71bsv09o1l1j9v5dqag91l1jk3km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

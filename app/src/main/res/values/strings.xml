@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">InkedPart2</string>
+
+    <string name="navigation_drawer_open">Open Nagivation Drawer</string>
+
+    <string name="navigation_drawer_close">Close Nagivation Drawer</string>
+    <string name="string_open_camera">Open Camera</string>
+
+
+    <string name="uploadImages">Set your image</string>
+    <string name="action_pic">Pictures</string>
+</resources>
