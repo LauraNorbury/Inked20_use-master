@@ -90,6 +90,12 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
                 break;
 
+            case R.id.camera:
+
+                getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, new cameraFragment()).commit();
+
+                break;
+
             case R.id.share:
 
                 Toast.makeText(this, "Share", Toast.LENGTH_SHORT).show( );
